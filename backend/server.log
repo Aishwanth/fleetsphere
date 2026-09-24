@@ -1,0 +1,16 @@
+
+> fleetsphere-api@1.0.0 dev
+> node --watch server.js
+
+Restarting 'server.js'
+Restarting 'server.js'
+Restarting 'server.js'
+MongoDB connected
+Failed running 'server.js'. Waiting for file changes before restarting...
+Restarting 'server.js'
+MongoDB connected
+Failed running 'server.js'. Waiting for file changes before restarting...
+Restarting 'server.js'
+Restarting 'server.js'
+MongoDB connected
+Failed running 'server.js'. Waiting for file changes before restarting...

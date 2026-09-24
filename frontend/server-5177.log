@@ -1,0 +1,9 @@
+
+> fleetsphere-web@1.0.0 dev
+> vite --host 127.0.0.1 --port 5177
+
+
+  VITE v5.4.21  ready in 501 ms
+
+  ➜  Local:   http://127.0.0.1:5177/
+2:22:33 pm [vite] page reload src/main.jsx

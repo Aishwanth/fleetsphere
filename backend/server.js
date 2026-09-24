@@ -1,0 +1,1 @@
+import 'dotenv/config';import app from './app.js';import {connectDB} from './config/db.js';connectDB().then(()=>app.listen(process.env.PORT||5000,()=>console.log('FleetSphere API listening'))).catch(e=>{console.error(e);process.exit(1)});

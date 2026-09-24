@@ -1,0 +1,39 @@
+
+> fleetsphere-api@1.0.0 dev
+> node --watch server.js
+
+MongoDB connected
+FleetSphere API listening
+POST /api/auth/login 200 422.645 ms - 437
+POST /api/auth/register 201 297.972 ms - 418
+GET /api/vehicles 200 630.614 ms - 652
+GET /api/drivers 200 9.Restarting 'server.js'
+Restarting 'server.js'
+MongoDB connected
+Failed running 'server.js'. Waiting for file changes before restarting...
+ng 'server.js'
+MongoDB connected
+Failed running 'server.js'. Waiting for file changes before restarting...
+2 ms - 311
+GET /api/auth/me 304 8.119 ms - -
+GET /api/auth/me 304 7.685 ms - -
+GET /api/auth/me 304 47.827 ms - -
+GET /api/vehicles 304 1041.479 ms - -
+GET /api/drivers 304 22.378 ms - -
+GET /api/routes 304 19.023 ms - -
+GET /api/vehicles 304 19.622 ms - -
+GET /api/expenses 200 34.907 ms - 86
+GET /api/documents 200 24.900 ms - 86
+Restarting 'server.js'
+Restarting 'server.js'
+MongoDB connected
+FleetSphere API listening
+GET /api/auth/me 304 439.816 ms - -
+GET /api/documents 304 37.995 ms - -
+GET /api/vehicles 304 54.395 ms - -
+GET /api/drivers 304 18.388 ms - -
+GET /api/routes 304 13.384 ms - -
+GET /api/trips 304 16.003 ms - -
+GET /api/auth/me 304 111.006 ms - -
+GET /api/auth/me 304 145.364 ms - -
+GET /api/auth/me 401 401.116 ms - 54
